@@ -11,7 +11,7 @@ public class LiteTidy {
 
     private LiteTidy() {}
 
-    //public static LiteTidy getInstance() {return instance;}
+    public static LiteTidy getInstance() {return instance;}
 
     //public synchronized void init() {}
 
@@ -21,6 +21,7 @@ public class LiteTidy {
     }
 
     public LiteTidy inject() {
+        System.out.println("inject");
         return instance;
     }
 

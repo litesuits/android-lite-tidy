@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="fill_parent"
+              android:layout_height="fill_parent"
+        >
+
+    <TextView
+            android:id="@+id/tvLabel"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="Hello World, MyActivity"
+            />
+
+    <TextView
+            android:id="@+id/tvLabel1"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="Hello World, MyActivity"
+            />
+
+    <TextView
+            android:id="@+id/tvLabel2"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="Hello World, MyActivity"
+            />
+
+    <TextView
+            android:id="@+id/tvLabel3"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="Hello World, MyActivity"
+            />
+
+    <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent">
+
+        <TextView
+                android:id="@+id/tvLabel4"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Hello World, MyActivity"
+                />
+
+        <TextView
+                android:id="@+id/tvLabel5"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Hello World, MyActivity"
+                />
+
+        <TextView
+                android:id="@+id/tvLabel6"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Hello World, MyActivity"
+                />
+
+        <TextView
+                android:id="@+id/tvLabel7"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Hello World, MyActivity"
+                />
+
+        <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent">
+
+            <TextView
+                    android:id="@+id/tvLabel8"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:text="Hello World, MyActivity"
+                    />
+
+            <TextView
+                    android:id="@+id/tvLabel9"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:text="Hello World, MyActivity"
+                    />
+
+            <TextView
+                    android:id="@+id/tvLabel10"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:text="Hello World, MyActivity"
+                    />
+
+            <TextView
+                    android:id="@+id/tvLabel11"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:text="Hello World, MyActivity"
+                    />
+
+            <LinearLayout
+                    android:orientation="vertical"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent">
+
+
+                <TextView
+                        android:id="@+id/tvLabel12"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:text="Hello World, MyActivity"
+                        />
+
+                <TextView
+                        android:id="@+id/tvLabel13"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:text="Hello World, MyActivity"
+                        />
+
+                <TextView
+                        android:id="@+id/tvLabel14"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:text="Hello World, MyActivity"
+                        />
+
+
+                <TextView
+                        android:id="@+id/tvLabel15"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:text="Hello World, MyActivity"
+                        />
+
+                <LinearLayout
+                        android:orientation="vertical"
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent">
+
+                    <TextView
+                            android:id="@+id/tvLabel16"
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:gravity="center"
+                            android:text="Hello World, MyActivity"
+                            />
+
+                    <TextView
+                            android:id="@+id/tvLabel17"
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:gravity="center"
+                            android:text="Hello World, MyActivity"
+                            />
+
+                    <TextView
+                            android:id="@+id/tvLabel18"
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:gravity="center"
+                            android:text="Hello World, MyActivity"
+                            />
+
+                    <TextView
+                            android:id="@+id/tvLabel19"
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:gravity="center"
+                            android:text="Hello World, MyActivity"
+                            />
+
+                    <LinearLayout
+                            android:orientation="vertical"
+                            android:layout_width="fill_parent"
+                            android:layout_height="fill_parent">
+
+                    </LinearLayout>
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+
+</LinearLayout>
+

@@ -11,7 +11,8 @@ public class Application extends android.app.Application {
     @Override
     public void onCreate() {
         super.onCreate();
-        LiteTidy.getInstance().init();
+        //LiteTidy.inject();
+        LiteTidy.getInstance().inject();
     }
 
 }
