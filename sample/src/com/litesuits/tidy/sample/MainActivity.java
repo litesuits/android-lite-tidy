@@ -7,6 +7,7 @@ import com.litesuits.tidy.$;
 import com.litesuits.tidy.R;
 
 public class MainActivity extends BaseActivity {
+
     @$ TextView tvLabel;
     @$ TextView tvLabel1;
     @$ TextView tvLabel2;
