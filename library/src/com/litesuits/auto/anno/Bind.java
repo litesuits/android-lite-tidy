@@ -1,4 +1,4 @@
-package com.litesuits.auto.annotation;
+package com.litesuits.auto.anno;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

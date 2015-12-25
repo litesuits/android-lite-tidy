@@ -3,9 +3,12 @@ package com.litesuits.tidy.sample;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.TextView;
+import com.litesuits.auto.AutoMan;
+import com.litesuits.auto.anno.AutoLite;
 import com.litesuits.tidy.$;
 import com.litesuits.tidy.R;
 
+@AutoLite
 public class MainActivity extends BaseActivity {
 
     @$ TextView tvLabel;
@@ -47,6 +50,8 @@ public class MainActivity extends BaseActivity {
         tvLabel11.setText("Hello Lite 11!");
         tvLabel16.setText("Hello Lite 16!");
         tvLabel19.setText("Hello Lite 19!");
+
+        AutoMan.activateThis(this);
 
     }
 }

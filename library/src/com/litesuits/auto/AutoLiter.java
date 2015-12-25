@@ -1,7 +1,10 @@
 package com.litesuits.auto;
 
 /**
- * Created by MaTianyu on 15/12/7.
+ * 自动化代码产生接口
+ *
+ * @author MaTianyu @http://litesuits.com
+ * @date 2015-12-17 16:05
  */
 public interface AutoLiter<T> {
     void onCreate(T target);
